@@ -1,0 +1,31 @@
+{
+    "name": "react-emit-hooks",
+    "version": "1.0.0",
+    "description": "Custom React hooks for event emission and listening",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc",
+        "prepublishOnly": "npm run build",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "peerDependencies": {
+        "react": ">=16.8.0"
+    },
+    "devDependencies": {
+        "@types/react": "^18.2.0",
+        "typescript": "^5.0.0"
+    },
+    "keywords": [
+        "react",
+        "hooks",
+        "events",
+        "custom-events"
+    ],
+    "author": "adham.nabih",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/domz-1/react-emit.git"
+    }
+}
