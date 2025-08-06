@@ -1,6 +1,6 @@
 {
     "name": "react-emit-hooks",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Custom React hooks for event emission and listening",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
