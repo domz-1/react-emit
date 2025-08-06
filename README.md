@@ -1,5 +1,6 @@
 # React Emit Hooks Documentation
-
+![Project Structure](public/image.png)
+---
 ## Installation
 
 Install the package via npm:
